@@ -28,4 +28,4 @@ options:
 
 ## Example
 
-[export database structure](https://github.com/liCells/generate-tool/examples/export_database_structure.py)
+[export database structure](https://github.com/liCells/generate-tool/blob/main/examples/export_database_structure.py)
